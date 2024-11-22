@@ -41,7 +41,7 @@ This project, **Meds_Review_XLNET_Regression**, demonstrates a **text regression
 #### **Usage**
 1. Clone the repository:
    ```
-   git clone https://github.com/DarinaVerk/Meds_Review_XLNET_Regression.git
+   git clone https://github.com/darinaverk/Meds-Review-XLNET-Regression.git
    cd Meds_Review_XLNET_Regression
    ```
 
