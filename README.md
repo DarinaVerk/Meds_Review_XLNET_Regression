@@ -42,7 +42,7 @@ This project, **Meds_Review_XLNET_Regression**, demonstrates a **text regression
 1. Clone the repository:
    ```
    git clone https://github.com/darinaverk/Meds-Review-XLNET-Regression.git
-   cd Meds_Review_XLNET_Regression
+   cd Meds-Review-XLNET-Regression
    ```
 
 2. Open the Jupyter Notebook:
